@@ -80,7 +80,7 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/islamic-companion-app.git
+git clone https://github.com/yourusername/islamic-companion-app.git](https://github.com/Shaidhms/islam-campion-using-streamlit.git
 cd islamic-companion-app
 ```
 
@@ -167,14 +167,7 @@ islamic-companion-app/
 - [ ] GPS-based location detection
 - [ ] Islamic calendar conversion API
 
-### Phase 2: Advanced Features
-- [ ] User authentication and profiles
-- [ ] Cloud data synchronization
-- [ ] Notification system for prayer times
-- [ ] Offline mode support
-- [ ] Multiple language support
-
-### Phase 3: Community Features
+### Phase 2: Community Features
 - [ ] Local mosque finder
 - [ ] Community prayer groups
 - [ ] Islamic event calendar
