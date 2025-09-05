@@ -206,7 +206,7 @@ This project is licensed under the MIT License
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/islamic-companion-app&type=Date)](https://star-history.com/#yourusername/islamic-companion-app&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=https://github.com/Shaidhms/islam-campion-using-streamlit&type=Date)](https://star-history.com/#yourusername/islamic-companion-app&Date)
 
 ## 📊 Project Status
 
