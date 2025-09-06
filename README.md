@@ -145,9 +145,9 @@ islamic-companion-app/
 ├── app.py                 # Main application file
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
-├── screenshots/          # App screenshots
+├── screenshots/          # App screenshots  - in progress 
 ├── assets/               # Static assets (future use)
-└── data/                 # Sample data files
+└── data/                 # Sample data files - in progress 
 ```
 
 ### Key Technical Features
