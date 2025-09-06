@@ -80,7 +80,7 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone (https://github.com/Shaidhms/islam-campion-using-streamlit.git)
+git clone https://github.com/Shaidhms/islam-campion-using-streamlit.git
 
 ```
 
