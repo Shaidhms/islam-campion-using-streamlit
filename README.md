@@ -80,8 +80,8 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/islamic-companion-app.git](https://github.com/Shaidhms/islam-campion-using-streamlit.git
-cd islamic-companion-app
+git clone (https://github.com/Shaidhms/islam-campion-using-streamlit.git)
+
 ```
 
 2. **Install dependencies**
@@ -95,7 +95,7 @@ streamlit run app.py
 ```
 
 4. **Open your browser**
-Navigate to `http://localhost:8501`
+Navigate to `http://localhost:5000`
 
 ## 📦 Dependencies
 
